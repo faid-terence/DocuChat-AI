@@ -1,0 +1,17 @@
+# Virtual environment
+chatbot_env/
+
+# Environment variables
+.env
+
+# Cached files
+__pycache__/
+*.pyc
+
+# Data and model files (if they shouldn't be version controlled)
+data/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
